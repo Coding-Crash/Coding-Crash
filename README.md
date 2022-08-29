@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Coding-Crash aka Crash
+- 👀 I’m interested in various soft- and hardware related stuff as well as music, games, motorcycles and electronics.
+- 🌱 I’m currently learning SQL, Talend, Tableau as well as basic and advanced Linux.
+- 📫 If you want to reach me, hit me up on Discord. My name there is Crashgaming.TV#8005
