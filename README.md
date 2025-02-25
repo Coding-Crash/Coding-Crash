@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coding-Crash aka Crash
 - 📌 Located in Germany
 - 👀 I’m interested in various soft- and hardware related stuff as well as 3D-printing and -modeling, music, games, motorcycles and electronics.
-- 🌱 I’m currently learning SQL, Talend, Tableau, basic and advanced Linux as well as soldering and programming micro controllers like Arduino and ESP32 chipsets. 
+- 🌱 I’m currently learning 3D-modeling with Autodesk Fusion, HTML, CSS, SQL, Talend, Tableau, basic and advanced Linux as well as soldering and programming micro controllers like Arduino and ESP32 chipsets. 
 - 📫 If you want to reach me, hit me up on Discord. My name there is crashgaming.tv
